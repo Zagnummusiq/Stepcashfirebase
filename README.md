@@ -1,2 +1,0 @@
-# Stepcashfirebase
-Walk to eaen
